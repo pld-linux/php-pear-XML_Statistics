@@ -23,7 +23,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 XML_Statistics is able to retrieve statistics about tags, attributes,
 entities, processing instructions and CDaata chunks in any XML document.
 
-This class has in PEAR status: %{_status}.
+In PEAR status of this package is: %{_status}.
 
 %description -l pl
 XML_Statistics jest w stanie uzyskaæ statystykê dotycz±c± znaczników,
