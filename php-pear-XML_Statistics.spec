@@ -5,7 +5,7 @@
 %define		_pearname	%{_class}_%{_subclass}
 
 Summary:	%{_pearname} - obtain statistical information from an XML documents
-Summary(pl.UTF-8):   %{_pearname} - uzyskiwanie statystyk z dokumentów XML
+Summary(pl.UTF-8):	%{_pearname} - uzyskiwanie statystyk z dokumentów XML
 Name:		php-pear-%{_pearname}
 Version:	0.1
 Release:	3
