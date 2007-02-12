@@ -5,7 +5,7 @@
 %define		_pearname	%{_class}_%{_subclass}
 
 Summary:	%{_pearname} - obtain statistical information from an XML documents
-Summary(pl):	%{_pearname} - uzyskiwanie statystyk z dokumentów XML
+Summary(pl.UTF-8):   %{_pearname} - uzyskiwanie statystyk z dokumentÃ³w XML
 Name:		php-pear-%{_pearname}
 Version:	0.1
 Release:	3
@@ -28,9 +28,9 @@ entities, processing instructions and CDaata chunks in any XML document.
 
 In PEAR status of this package is: %{_status}.
 
-%description -l pl
-XML_Statistics jest w stanie uzyskaæ statystykê dotycz±c± znaczników,
-atrybutów, instrukcji przetwarzaj±cych oraz elementów CDaata z dowolnego
+%description -l pl.UTF-8
+XML_Statistics jest w stanie uzyskaÄ‡ statystykÄ™ dotyczÄ…cÄ… znacznikÃ³w,
+atrybutÃ³w, instrukcji przetwarzajÄ…cych oraz elementÃ³w CDaata z dowolnego
 dokumentu XML.
 
 Ta klasa ma w PEAR status: %{_status}.
